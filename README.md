@@ -18,5 +18,5 @@ m代表在data association时使用Mahalanobis距离;
 
 使用Mahalanobis距离时帧率更快 ，也可以避免丢失跟踪目标。
 
-![avatar](./doc/Snipaste_2020-07-23_21-43-11.png)
-![avatar](./doc/Snipaste_2020-07-24_15-45-47.png)
+![avatar](https://github.com/FengZicai/Deecamp2020-Point-Cloud-Multi-Object-Tracking/blob/master/doc/Snipaste_2020-07-23_21-43-11.png)
+![avatar](https://github.com/FengZicai/Deecamp2020-Point-Cloud-Multi-Object-Tracking/blob/master/doc/Snipaste_2020-07-24_15-45-47.png)
