@@ -1,6 +1,8 @@
 这是基于[mahalanobis_3d_multi_object_tracking](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking)实现的三维点云多目标跟踪的代码。
 需要基于检测过程的输出结果运行本代码。
 
+跟踪过程发生在检测过程之后，检测代码可以参考[\[Link\]](https://github.com/LittleYuanzi/Deecamp20_3_1_momenta_lidar_detection)
+
 `requirements.txt`中给出运行代码所需要的环境依赖。
 
 运行过程如下：
